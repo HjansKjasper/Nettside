@@ -1,0 +1,42 @@
+th, td {
+    border: 3px solid; color: rgb(0, 0, 0);  
+}
+    
+.tittel {
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 0, 0);
+
+    height: 60px;
+
+    background-color: rgb(255, 255, 255);
+}
+table {
+    display: flex;
+    justify-content: center;
+    border-collapse: collapse;
+
+    height: 100px;
+
+    background-color: rgb(255, 255, 255);
+}
+    
+.video {
+    display: flex;
+    justify-content: center;
+
+    margin-right: 30px;
+
+}
+
+body {
+    background-image: url("Strawberry.jpg");
+}
+
+.videoer {
+    display: flex;
+    justify-content: center;
+
+    background-color: white;
+
+}

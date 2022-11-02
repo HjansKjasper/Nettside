@@ -1,0 +1,38 @@
+h1 {
+    color: rgb(255, 0, 0)
+}
+
+.innhold{
+    display:flex; 
+    flex-direction:row;
+    height: 2000px;
+}
+
+.venstre{
+ margin-right: 100px; 
+}
+
+
+ 
+body {
+    background-image: url("Strawberry.jpg");
+    
+}
+
+.meny{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.innhold{
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+}
+
+a{
+    color: rgb(49, 189, 44);
+}
+
