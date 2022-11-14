@@ -29,14 +29,42 @@ table {
 
 }
 
+.video2 {
+    margin-right: 30px;
+}
+
 body {
     background-image: url("Strawberry.jpg");
+}
+
+.tekst {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    background-color: white;
 }
 
 .videoer {
     display: flex;
     justify-content: center;
 
+    
+
     background-color: white;
 
+}
+
+.wavedash {
+    margin-right: ;
+}
+
+.wallbounce {
+    margin-left: 450px;
+    margin-right: 450px;
+}
+
+.hvitt {
+    height: 70px;
+    background-color: white;
 }
